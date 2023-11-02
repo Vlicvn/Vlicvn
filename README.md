@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning everything 
   
 ### Connect with me:
-- [Click here to go to my website.](https://www.alican.infinityfreeapp.com)  
+- [Click here to go to my website.](https://www.alican.infinityfreeapp.com)
+  
 [![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/alican-bayraktar)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
