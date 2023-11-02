@@ -9,7 +9,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
 &nbsp;&nbsp;
-[![website](./img/ab-logo.svg)](https://www.alican.infinityfreeapp.com)
+[![website](./img/ab-logo.ico)](https://www.alican.infinityfreeapp.com)
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Vlicvn&show_icons=true&theme=gradient) 
