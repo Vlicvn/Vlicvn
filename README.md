@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 
-- [My Web Site](https://alican.infinityfreeapp.com)
+- [My web site](https://alican.infinityfreeapp.com)
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](tr.linkedin.com/in/alican-bayraktar)
