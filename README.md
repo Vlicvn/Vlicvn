@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning everything 🤣
 
 
-[![My Web Site]](https://alican.infinityfreeapp.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alicanb.11/) 
+- [My Web Site](https://alican.infinityfreeapp.com)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alicanb.11/) 
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
