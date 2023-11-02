@@ -6,7 +6,6 @@
 
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](tr.linkedin.com/in/alican-bayraktar)
-
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
 
