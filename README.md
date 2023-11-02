@@ -5,7 +5,8 @@
 - [My web site](https://alican.infinityfreeapp.com)
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](tr.linkedin.com/in/alican-bayraktar)
+[![website](./img/linkedin-dark.svg)](tr.linkedin.com/in/alican-bayraktar)
+
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
 
