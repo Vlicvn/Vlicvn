@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning everything 
   
-- Click on the logo below to go to my website.
-  &nbsp;&nbsp;
-[![website](./img/ab-logo.ico)](https://www.instagram.com/alicanb.11/)
+
 
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/alican-bayraktar)
@@ -13,6 +11,10 @@
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Vlicvn&show_icons=true&theme=gradient) 
+
+- Click on the logo below to go to my website.
+  &nbsp;&nbsp;
+[![website](./img/ab-logo.ico)](https://www.instagram.com/alicanb.11/)
 
 
 
