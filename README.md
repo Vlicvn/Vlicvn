@@ -5,9 +5,12 @@
 - [My web site](https://alican.infinityfreeapp.com)
 
 ### Connect with me:
-[![website](./img/linkedin-dark.svg)](tr.linkedin.com/in/alican-bayraktar)
+[![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/alican-bayraktar)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
+&nbsp;&nbsp;
+[![website](./img/ab-logo.svg)](https://www.alican.infinityfreeapp.com)
+
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Vlicvn&show_icons=true&theme=gradient) 
 
