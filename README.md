@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 
 
-[![My Web Site](https://logopond.com/logos/9fbc6ba08986a80180e56fb781e9d8a3.png)](https://alican.infinityfreeapp.com)
+[![My Web Site]](https://alican.infinityfreeapp.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/alicanb.11/) 
 
 ### Connect with me:
