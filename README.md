@@ -4,10 +4,10 @@
   
 ### Connect with me:
 - [Click here to go to my website.](https://www.alican.infinityfreeapp.com)
-  
-- [![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/alican-bayraktar)  
 
-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
+  [![website](./img/linkedin-dark.svg)](https://tr.linkedin.com/in/alican-bayraktar)  
+
+  [![website](./img/instagram-dark.svg)](https://www.instagram.com/alicanb.11/)
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Vlicvn&show_icons=true&theme=gradient) 
