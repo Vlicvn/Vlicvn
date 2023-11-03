@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlicvn&show_icons=true&locale=en&layout=compact" alt="Vlicvn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vlicvn&show_icons=true&locale=en" alt="Vlicvn" /></p>
+
 
 
 
